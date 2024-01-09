@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
-  "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "name": "ok",
+  "version": "ok",
+  "description": "ok",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -11,7 +11,7 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "ok"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
